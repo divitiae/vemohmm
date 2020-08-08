@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manifast" translatable="false">ca-app-pub-9227865829432768~5840762343</string>
+    <string name="BannerAd" translatable="false">ca-app-pub-9227865829432768/2230472788</string>
+    <string name="InterstitialAd" translatable="false">ca-app-pub-9227865829432768/2639883934</string>
+    <string name="nativead" translatable="false">ca-app-pub-9227865829432768/3761393918</string>
+
+    <string name="ad_attribution" translatable="false">إعلان</string>
+
+    <string name="AudioCompressor">ضغط الصوت</string>
+    <string name="AudioCutter">تقطيع الصوت</string>
+    <string name="AudioJoiner">دمج أصوتت</string>
+    <string name="AudioVideoMixer">دمج أصوات وفيديو</string>
+    <string name="FastMotionVideo">تأثيرات فيديو سريعة</string>
+    <string name="MainFolderName">محرر</string>
+    <string name="PhotoToVideo">من صور إلى فيديو</string>
+    <string name="SlowMotionVideo">فيديو SlowMotion</string>
+    <string name="VideoCollage">VideoCollage</string>
+    <string name="VideoCompressor">ضاغط الفيديو</string>
+    <string name="VideoConverter">محول الفيديو</string>
+    <string name="VideoCroper">VideoCroper</string>
+    <string name="VideoCutter">فيديو كتر</string>
+    <string name="VideoJoiner">VideoJoiner</string>
+    <string name="VideoMirror">فيديو ميرور</string>
+    <string name="VideoMute">كتم صوت الفيديو</string>
+    <string name="VideoReverse">VideoReverse</string>
+    <string name="VideoRotate">تدوير الفيديو</string>
+    <string name="VideoSplitter">VideoSplitter</string>
+    <string name="VideoToGIF">VideoToGIF</string>
+    <string name="VideoToImage">VideoToImage</string>
+    <string name="VideoToMP3">VideoToMP3</string>
+    <string name="VideoWatermark">VideoWatermark</string>
+    <string name="alert_ok_button">موافق</string>
+    <string name="alert_title_failure">خطأ</string>
+    <string name="alert_title_success">نجاح</string>
+    <string name="app_folder_name2">VideoCollage</string>
+    <string name="app_name">محرر الفيديو</string>
+    <string name="artist_name">RingtoneMaker</string>
+    <string name="bad_extension_error">عذرًا ، RingtoneMaker غير قادر بعد على تحرير ملفات من النوع</string>
+    <string name="cancel">إلغاء</string>
+    <string name="character_counter_pattern">٪ 1 $ d /٪ 2 $ d</string>
+    <string name="common_google_play_services_unknown_issue">٪ 1 $ s يواجه مشكلة في خدمات Google Play. حاول مرة اخرى.</string>
+    <string name="delete_tmp_error">خطأ في حذف الملف المؤقت</string>
+    <string name="end_marker">علامة النهاية</string>
+    <string name="no_extension_error">عذرًا ، لا يمكن لـ RingtoneMaker تحرير ملف إذا لم يكن له امتداد مثل .mp3 أو .wav</string>
+    <string name="no_sdcard">عذرا ، لا يمكن تشغيل ما لم يكن لديك بطاقة SD مدرجة.</string>
+    <string name="no_space_error">بطاقة SD ممتلئة ، لا توجد مساحة كافية لحفظ هذا الملف.</string>
+    <string name="no_unique_filename">تعذر العثور على اسم ملف فريد</string>
+    <string name="play">تشغيل</string>
+    <string name="play_error">تعذر تشغيل ملف الوسائط هذا</string>
+    <string name="progress_dialog_loading">تحميل…</string>
+    <string name="progress_dialog_saving">جارٍ الحفظ…</string>
+    <string name="read_error">خطأ في قراءة الملف</string>
+    <string name="s1">حفظ الصورة</string>
+    <string name="s2">السماح للإعلان بتخزين الصورة في معرض الصور؟</string>
+    <string name="s3">قبول</string>
+    <string name="s4">رفض</string>
+    <string name="s5">إنشاء حدث تقويم</string>
+    <string name="s6">السماح للإعلان بإنشاء حدث تقويم؟</string>
+    <string name="s7">إعلان تجريبي</string>
+    <string name="sdcard_readonly">عذرًا ، تم تركيب بطاقة SD للقراءة فقط.</string>
+    <string name="sdcard_shared">عذرًا ، لا يمكن تشغيل الجهاز أثناء تركيبه كجهاز USB.</string>
+    <string name="shipped_ffmpeg_version">n2.4.2</string>
+    <string name="start_marker">علامة البداية</string>
+    <string name="stop">توقف</string>
+    <string name="too_small_error">لا يمكن حفظ ملف بهذا الحجم الصغير ، حاول جعله أطول.</string>
+    <string name="write_error">خطأ في كتابة الملف</string>
+
+    <string name="go_back_title">تريد العودة؟</string>
+    <string name="no">لا</string>
+    <string name="yes">نعم</string>
+    <string name="sure_close_app">هل تريد إغلاق التطبيق؟</string>
+    <string name="close">إغلاق</string>
+</resources>
